@@ -1,3 +1,3 @@
-# network-switch-app
+# node-switcher
 
-浮窗监测内外网启用状态，并支持一键切换纯内网/纯外网状态
+基于nvm实现一键切换node版本
